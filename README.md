@@ -1,2 +1,2 @@
 # InsectIntron
-Intron stability analysis in insects.
+A short collection of scripts used to analyse intron stability in insects.
